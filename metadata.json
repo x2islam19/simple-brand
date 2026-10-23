@@ -1,0 +1,7 @@
+{
+  "name": "SIMPLE — Considered Hoodies, Crewnecks & Sweatpants",
+  "description": "Considered heavyweight hoodies, reverse-weave crewnecks, and wide-leg sweatpants engineered for perpetual wear. Heavyweight loopback organic cotton.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
